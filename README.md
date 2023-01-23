@@ -1,4 +1,6 @@
-### Hi there 👋
+### Pharmacy Student Developer
+
+💊 Dongguk Univ. Collage of the Pharmacy 💊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjongin&show_icons=true&theme=radical)
 
