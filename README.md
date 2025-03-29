@@ -1,6 +1,6 @@
 ### Pharmacy Student Developer
 
-Dongguk Univ. Collage of the Pharmacy 💊
+Dongguk Univ. College of the Pharmacy 💊
 
 
 ### Films I've Used
