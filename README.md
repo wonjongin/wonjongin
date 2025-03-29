@@ -18,7 +18,10 @@ Dongguk Univ. College of the Pharmacy 💊
 ![Harman Phoenix](https://img.shields.io/badge/Harman-Phoenix-D65436)
 ![Fomapan 400](https://img.shields.io/badge/Fomapan-400-333333)
 
-  
+### My farm
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/wonjongin"/>
+</a>
 
 ### Statistics
 
