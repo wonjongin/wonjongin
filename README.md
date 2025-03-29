@@ -18,7 +18,7 @@ Dongguk Univ. Collage of the Pharmacy 💊
 ![Harman Phoenix](https://img.shields.io/badge/Harman-Phoenix-D65436)
 ![Fomapan 400](https://img.shields.io/badge/Fomapan-400-333333)
 
-
+  
 
 ### Statistics
 
@@ -26,7 +26,8 @@ Dongguk Univ. Collage of the Pharmacy 💊
 
 ![Most Used language](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjongin&layout=compact&langs_count=16&theme=white&exclude_repo=todo-cli-2020-c-)
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=wonjongin)
+  
 
 <!--
 **wonjongin/wonjongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
