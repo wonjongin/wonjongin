@@ -25,7 +25,11 @@
 ![Cinestill 400D](https://img.shields.io/badge/Cinestill-400D-6A0DAD)
 ![Harman Phoenix](https://img.shields.io/badge/Harman-Phoenix-D65436)
 ![Fomapan 400](https://img.shields.io/badge/Fomapan-400-333333)
-
+<!--
+![Cinestill 800T](https://img.shields.io/badge/CINESTILL-800T-FF5D00)
+![Kodak AerocolorIV](https://img.shields.io/badge/KODAK-AEROCOLORIV-FFBE00)
+![Lomography Color Negative 400](https://img.shields.io/badge/LOMOGRAPHY-COLOR_NEGATIVE_400-00A4E4)
+-->
 
 ## 🧩 Experience
 
