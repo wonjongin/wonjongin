@@ -23,7 +23,7 @@
 ![Fujifilm C200](https://img.shields.io/badge/Fujifilm-C200-4AAB3C)
 ![Fujifilm C400](https://img.shields.io/badge/Fujifilm-C400-00823C)
 ![Cinestill 400D](https://img.shields.io/badge/Cinestill-400D-6A0DAD)
-![Lomography Color Negative 100](https://img.shields.io/badge/Film-Lomography%20Color%20Negative%20100-red)
+![Lomography Color Negative 100](https://img.shields.io/badge/Lomography-Color%20Negative%20100-E31837)
 ![Harman Phoenix](https://img.shields.io/badge/Harman-Phoenix-D65436)
 ![Fomapan 400](https://img.shields.io/badge/Fomapan-400-333333)
 <!--
