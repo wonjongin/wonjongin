@@ -26,6 +26,7 @@
 ![Lomography Color Negative 100](https://img.shields.io/badge/Lomography-Color%20Negative%20100-EB592B)
 ![Harman Phoenix](https://img.shields.io/badge/Harman-Phoenix-D65436)
 ![Fomapan 400](https://img.shields.io/badge/Fomapan-400-333333)
+![Fomapan 100](https://img.shields.io/badge/Fomapan-100-333333)
 <!--
 ![Cinestill 800T](https://img.shields.io/badge/CINESTILL-800T-FF5D00)
 ![Kodak AerocolorIV](https://img.shields.io/badge/KODAK-AEROCOLORIV-FFBE00)
